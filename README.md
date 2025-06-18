@@ -17,12 +17,6 @@ This is a Smart Parking Management web application built with **Python**, **Stre
 
 ---
 
-## 🖼️ Screenshot
-
-![Smart Parking UI](screenshot.png)
-
----
-
 ## 🔧 Installation & Setup
 
 ### 1. Clone the repository
@@ -116,17 +110,6 @@ Multiple admin roles
 Vaishnavi Borse
 
 TEAM AVINYA | Sanjivani College of Engineering
-
-📃 License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want the `requirements.txt` file generated or a `screenshot.png` placeholder created!
 
 
 
